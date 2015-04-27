@@ -1,0 +1,11 @@
+{
+  "name": "analytics",
+  "version": "1.0.0",
+  "description": "sole's analytics package. don't use if you're not me.",
+  "main": "ga.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sole",
+  "license": "DO NOT USE"
+}
